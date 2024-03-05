@@ -243,7 +243,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.9.4",
-    "versionPublish": "5.9.8",
+    "versionPublish": "5.9.13",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;700&display=swap",
@@ -254,7 +254,7 @@
     "uniqCompNum": 9,
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": false,
     "mbrsiteDomain": "ktqkmkkbts",
     "usedWebp": false,
